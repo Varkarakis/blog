@@ -14,7 +14,7 @@ picture: assets/images/vv2.jpg
 # and specify source (external or local).
 publications: true
 publications-external: true
-publications-url: https://google.com/?q=my+resume
+publications-url: https://scholar.google.com/citations?user=4NMOeFEAAAAJ&hl=en
 #resume: true
 #resume-external: true
 #resume-url: https://google.com/?q=my+resume
