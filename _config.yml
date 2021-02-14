@@ -8,7 +8,7 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/vv.jpg
+picture: assets/images/vv2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+#facebook: myfacebook
 twitter: viktor_vark
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: varkarakis
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -57,14 +57,10 @@ authors:
     name: Viktor Varkarakis 
     bio: Deep Learning Engineer focused on Computer Vision
     external-image: false
-    picture: assets/images/vv.jpg
+    picture: assets/images/vv2.jpg
     twitter: viktor_vark
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    github: varkarakis
+
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
