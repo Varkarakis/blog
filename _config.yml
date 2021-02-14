@@ -53,12 +53,12 @@ medium: medium
 email: myemail@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  viktor_vark:
+    name: Viktor Varkarakis 
+    bio: Deep Learning Engineer focused on Computer Vision
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
+    picture: assets/images/vv.jpg
+    twitter: viktor_vark
   jamesfoster:
     name: James Foster
     bio: A Man who develops software with coffee
