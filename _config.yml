@@ -12,9 +12,12 @@ picture: assets/images/vv2.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+publications: true
+publications-external: true
+publications-url: https://google.com/?q=my+resume
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
 url: https://varkarakis.github.io/
 # your url: https://USERNAME.github.io
